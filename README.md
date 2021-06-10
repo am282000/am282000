@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Something Amazing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with React
 - 💬 Ask me about anything
