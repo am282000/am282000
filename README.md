@@ -1,5 +1,5 @@
 ### Hi there, I'm Ashish👦,
-A Frontend Web developer🎯 and designer🌈 from India.
+A Frontend Web developer🎯 from India.
 
 - 👨‍💻 Frontend Web Developer
 - 🌱 Currently learning React .
